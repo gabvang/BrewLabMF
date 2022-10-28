@@ -1,0 +1,24 @@
+body{
+    display: inline-block;
+    width: 100%;
+    background-color: #A75B54;
+}
+navbar, dropdown-menu, drop-down-item {
+    font-family: 'Open Sans', sans-serif;
+}
+h1, picture {
+    font-family: 'Lobster', cursive;
+    font-size: 100%;
+    text-shadow: 2px 2px black;
+    color: white;
+    text-align: left;
+}
+
+div ul {
+    top: 50%;
+    left: 50%
+    font-family: 'Open Sans', sans-serif;
+    list-style:none;
+    font-style:uppercase;
+    
+}

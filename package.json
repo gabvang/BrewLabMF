@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gabvang/BrewLabMF/issues"
   },
-  "homepage": "https://github.com/gabvang/BrewLabMF#readme"
+  "homepage": "https://github.com/gabvang/BrewLabMF#readme",
+  "dependencies": {
+    "-": "^0.0.1"
+  }
 }
