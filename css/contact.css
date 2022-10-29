@@ -1,0 +1,20 @@
+body{
+    width: 100%;
+    background-color: #EEEDE7;
+}
+navbar dropdown-menu, drop-down-item {
+    font-family: 'Open Sans', sans-serif;
+}
+header div h1{
+    text-align: center;
+    color: black;
+    width: 100%;
+    font-family: 'Lobster', cursive;
+    font-size: x-large;
+}
+
+div label{
+    align-items: center;
+    color: black;
+    font-family:'Open Sans', sans-serif;
+}

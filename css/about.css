@@ -3,22 +3,17 @@ body{
     width: 100%;
     background-color: #EEEDE7;
 }
-navbar, dropdown-menu, drop-down-item {
+nav, dropdown-menu, drop-down-item {
     font-family: 'Open Sans', sans-serif;
 }
-header h1{
+header h1,th{
+    color: black;
     width: 100%;
     text-align: center;
     font-family: 'Lobster', cursive;
+    font-size: x-large;
 }
-.picture {
-    
-    text-align: left;
+tr{
+    color: black;
+    font-family:'Open Sans', sans-serif;
 }
-
-div ul {
-    font-family: 'Open Sans', sans-serif;
-    list-style:none;
-}
-
-@media (max-width: 600px) 
